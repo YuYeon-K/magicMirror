@@ -1,5 +1,5 @@
 # Magic Mirror 🪞✨  
-<img src="image/magic-mirror.png" alt="Magic Mirror" width="500"/>
+Check out the [demo here](https://youtu.be/9pajvnRIEjI?si=PkrMQZOILxhqznF2)!
 
 ## Smart Mirror - The Fairest of Them All! 🎉  
 **Magic Mirror** is an interactive, smart mirror that provides real-time data, including weather updates, news headlines, outfit suggestions, and more! Using an ultrasonic sensor, the mirror activates only when a user is detected, enhancing energy efficiency and interactivity.  
